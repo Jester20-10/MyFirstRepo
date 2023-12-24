@@ -1,0 +1,58 @@
+<html>
+    <title> AigoGems </title>
+    <body>
+        <header style="background-color:darkorange;color:black">
+            
+           
+           <a href="#games" style="color:black; font-size:20px;">Наши возможности</a>
+            <a href="#price" style="color:black; font-size:20px;"> Цены</a>
+        </header>
+        <main>
+             <h1 style="text-align:center;"> AigoGems </h1>
+            <p style="font-size:20px">
+                Сегодня я, как директор кампании, хотел бы поделиться с вами нашими планами и амбициями по развитию индустрии видеоигр. Мы стремимся стать одной из лидирующих кампаний в мире, создавая инновационные и увлекательные игры, которые будут радовать наших игроков и стимулировать их интерес на протяжении долгого времени.
+            </p>
+            <h2 id="gems"> Мы работаем в разных жанрах </h2>
+            <p style="font-size:20px">
+                Шутеры
+                <br/>  Аркады 
+                <br/>   Головоломки 
+               <br/> <img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png" width="160px">
+                <img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png" width="160px">
+                <img src="https://avatars.mds.yandex.net/i?id=abde5368e155c8a1a6f203f02c97eb18596e4956-7543737-images-thumbs&n=13" width="200px">
+            </p>
+            <h2 id="price"> Мы находимся в среднем цыновом сигменте </h2>
+            <table style="border: 1px solid blue; border-collapse: collapse">
+                <tr style="border: 1px solid blue; background-color:lightblue;">
+                    <td style="border: 1px solid blue"> Графика </td>
+                    <td style="border: 1px solid blue"> Шутеры </td>
+                    <td style="border: 1px solid blue"> Аркады </td>
+                    <td style="border: 1px solid blue"> Головоломки </td> 
+                </tr>
+                <tr>
+                   <td style="border: 1px solid blue"> Высокая </td>
+                   <td style="border: 1px solid blue"> 10000 руб </td>
+                   <td style="border: 1px solid blue"> 9500 руб </td>
+                   <td style="border: 1px solid blue"> 15000 руб </td>
+                </tr>
+                <tr>
+                   <td style="border: 1px solid blue"> Средняя </td>
+                   <td style="border: 1px solid blue"> 9000 руб </td>
+                   <td style="border: 1px solid blue"> 8500 руб </td>
+                   <td style="border: 1px solid blue"> 10000 руб </td>
+                </tr>
+                 <tr>
+                   <td style="border: 1px solid blue"> Низкая </td>
+                   <td style="border: 1px solid blue"> 7000 руб </td>
+                   <td style="border: 1px solid blue"> 6500 руб </td>
+                   <td style="border: 1px solid blue"> 8000 руб </td>
+                </tr>
+
+            </table>
+        </main>
+        <footer style="background-color:darkorange; color:black">
+              <a href="http://www.youtube.com/@Jester_2.0" style="color:black; font-size:20px;">Ютуб</a>
+              <br/> <a href="https://t.me/JesterPRODUCTION" style="color:black; font-size:20px;">Телеграм</a>
+        </footer>
+    </body>
+</html>
